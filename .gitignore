@@ -1,0 +1,37 @@
+# NinjaTrader specific
+*.dat
+*.log
+*.bak
+*.old
+*.tmp
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.cache
+*.dll
+*.exe
+*.pdb
+bin/
+obj/
+Debug/
+Release/
+*.vspscc
+*.vssscc
+.builds
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Backup files
+*~
+*.swp
+*.bak
+*.orig
