@@ -6,6 +6,10 @@ A collection of custom indicators for NinjaTrader 8.
 
 An advanced Renko bar type implementation with smoothing capabilities for NinjaTrader 8.
 
+### Example Chart
+![SmoothRenkoPlusII Example](images/smooth_renko_example.png)
+*Example of SmoothRenkoPlusII bar type showing smooth price movement and trend detection*
+
 ### Features
 - Custom bar type based on Renko principles
 - Smoothing algorithm for price movement
